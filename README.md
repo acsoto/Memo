@@ -6,7 +6,7 @@ Memo用于随时记录，记录生活中的某一刻，记录今天的心情，�
 
 ## 图片
 
-![IMG_0177](Memo.assets/IMG_0177.PNG)
+<img src="Memo.assets/IMG_0177.PNG" alt="IMG_0177" style="zoom:25%;" />
 
 ![IMG_0175](Memo.assets/IMG_0175.PNG)
 
