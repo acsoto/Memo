@@ -6,9 +6,9 @@ Memo用于随时记录，记录生活中的某一刻，记录今天的心情，�
 
 ## 图片
 
-<img src="Memo.assets/IMG_0177.PNG" alt="IMG_0177" style="zoom:25%;" />
+<img src="Memo.assets/IMG_0177.PNG" alt="IMG_0177" style="zoom: 25%;" />
 
-![IMG_0175](Memo.assets/IMG_0175.PNG)
+<img src="Memo.assets/IMG_0175.PNG" alt="IMG_0175" style="zoom:25%;" />
 
 （介绍及短评摘自豆瓣，侵删）
 
@@ -32,9 +32,9 @@ Mac, iPad适配
 
 除此以外，你可以点击最上方的“记录今天”来记录今天的小心情
 
-![IMG_0178](Memo.assets/IMG_0178.PNG)
+<img src="Memo.assets/IMG_0178.PNG" alt="IMG_0178" style="zoom:25%;" />
 
-![IMG_0172](Memo.assets/IMG_0172.PNG)
+<img src="Memo.assets/IMG_0172.PNG" alt="IMG_0172" style="zoom:25%;" />
 
 ##### 电影
 
@@ -44,13 +44,13 @@ Mac, iPad适配
 
 当然，点击此方框，你可以进入到第二次标记的页面，记录下你的第二次观影以及新的感想
 
-![IMG_0176](Memo.assets/IMG_0176-5347266.PNG)
+<img src="Memo.assets/IMG_0176-5347266.PNG" alt="IMG_0176" style="zoom:25%;" />
 
-![IMG_0175](Memo.assets/IMG_0175-5346928.PNG)
+<img src="Memo.assets/IMG_0175-5346928.PNG" alt="IMG_0175" style="zoom:25%;" />
 
-![IMG_184](Memo.assets/IMG_184.JPEG)
+<img src="Memo.assets/IMG_184.JPEG" alt="IMG_184" style="zoom:25%;" />
 
-![IMG_0185](Memo.assets/IMG_0185.PNG)
+<img src="Memo.assets/IMG_0185.PNG" alt="IMG_0185" style="zoom:25%;" />
 
 ##### 书籍
 
@@ -58,7 +58,7 @@ Mac, iPad适配
 
 同时，app提供了书籍的简介信息
 
-![IMG_0186](Memo.assets/IMG_0186.PNG)
+<img src="Memo.assets/IMG_0186.PNG" alt="IMG_0186" style="zoom:25%;" />
 
 ## 功能
 
