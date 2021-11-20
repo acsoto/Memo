@@ -6,13 +6,11 @@ Memo用于随时记录，记录生活中的某一刻，记录今天的心情，�
 
 ## 图片
 
-<img src="Memo/IMG_0177.PNG" alt="IMG_0177" style="zoom: 25%;" />
-
-<img src="Memo/IMG_0175.PNG" alt="IMG_0175" style="zoom:25%;" />
+![](https://tva1.sinaimg.cn/large/008i3skNly1gwlqsutq24j30u00xk41v.jpg)
 
 （介绍及短评摘自豆瓣，侵删）
 
-![image-20211027232017002](Memo/image-20211027232017002.png)
+![](https://tva1.sinaimg.cn/large/008i3skNly1gwlr5i3osjj30u010ujtt.jpg)
 
 Mac, iPad适配
 
@@ -24,25 +22,9 @@ Mac, iPad适配
 
 ##### 主页
 
-![截屏2021-11-20 17.02.06](README/截屏2021-11-20 17.02.06.png)
+![](https://tva1.sinaimg.cn/large/008i3skNly1gwlqj9g2ltj30pi0tkq5a.jpg)
 
-![截屏2021-11-20 17.02.11](README/截屏2021-11-20 17.02.11.png)
-
-
-
-在此页面，你将能看到多彩的卡片
-
-这些卡片，是由你近期的感想组成
-
-他们分为，今天的感想，这一个月看过的电影和书籍，以及那年今日，你留下的感想
-
-除此以外，你可以点击最上方的“记录今天”来记录今天的小心情
-
-
-
-<img src="Memo/IMG_0178.PNG" alt="IMG_0178" style="zoom:25%;" />
-
-<img src="Memo/IMG_0172.PNG" alt="IMG_0172" style="zoom:25%;" />
+![](https://tva1.sinaimg.cn/large/008i3skNly1gwlqj9pbc4j30pk0vowg3.jpg)
 
 ##### 电影
 
@@ -52,21 +34,15 @@ Mac, iPad适配
 
 当然，点击此方框，你可以进入到第二次标记的页面，记录下你的第二次观影以及新的感想
 
-<img src="Memo/IMG_0176-5347266.PNG" alt="IMG_0176" style="zoom:25%;" />
+![](https://tva1.sinaimg.cn/large/008i3skNly1gwlr3yyccmj30u00yfdi5.jpg)
 
-<img src="Memo/IMG_0175-5346928.PNG" alt="IMG_0175" style="zoom:25%;" />
-
-<img src="Memo/IMG_184.JPEG" alt="IMG_184" style="zoom:25%;" />
-
-<img src="Memo/IMG_0185.PNG" alt="IMG_0185" style="zoom:25%;" />
+![](https://tva1.sinaimg.cn/large/008i3skNly1gwlr374o8bj30u00yq41f.jpg)
 
 ##### 书籍
 
 类似电影，这里是你的书单，你可以添加你看过的书籍，并且记录第n次阅读的体验，相信每一次阅读，都会发现不少新东西
 
-同时，app提供了书籍的简介信息
-
-<img src="Memo/IMG_0186.PNG" alt="IMG_0186" style="zoom:25%;" />
+![](https://tva1.sinaimg.cn/large/008i3skNly1gwlr1ixi5pj30u010gmys.jpg)
 
 ## 功能
 
