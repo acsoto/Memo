@@ -24,6 +24,95 @@ Mac, iPad适配
 
 ##### 主页
 
+<section class="_135editor" data-tools="135编辑器" data-id="105060">
+    <section style="text-align: center;margin: 10px auto;">
+        <section style="background-color: #f2f6ff;padding: 0 15px 15px 15px;border-radius: 7px;box-shadow:4px 4px 8px rgba(169, 187, 223, 0.45);margin: 40px 8px 0 0;">
+            <section style="display: flex;justify-content: space-between;align-items: flex-start;">
+                <section style="box-sizing:border-box;width: 55%;transform: translate(0,-30px);" data-width="55%">
+                    <section style="box-sizing:border-box;width: 100%;" data-width="100%">
+                        <img style="box-sizing:border-box;vertical-align:inherit;width: 100%; display: block;border-radius: 7px;" src="Memo.assets/IMG_0178.PNG" data-ratio="2.1659192825112106" data-w="341" hm_fix="227:454" data-width="100%"/>
+                    </section>
+                </section>
+                <section style="box-sizing:border-box;width: 40%;" data-width="40%">
+                    <section style="display: flex;justify-content: center;margin: 20px 0 15px 0;">
+                        <section style="box-sizing:border-box;width: 38px;height: 38px;border-radius: 50%;box-shadow: inset 4px 4px 4px rgba(169, 187, 223, 0.45), inset -2.5px -2.5px 5px #fff;background-color: #f2f6ff;">
+                            <section style="font-size: 16px;letter-spacing: 1.5px;color: #6f85ac;line-height: 38px;margin-top:1px;">
+                                <strong>观</strong>
+                            </section>
+                        </section>
+                    </section>
+                    <section data-autoskip="1" class="135brush" style="margin-left: 5px;text-align: justify;line-height:1.75em;letter-spacing: 1.5px;font-size:12px;color:#6f85ac;background: transparent;">
+                        <p style="vertical-align:inherit;">
+                            在此页面，你将能看到多彩的卡片
+                        </p>
+                        <p style="vertical-align:inherit;">
+                            这些卡片，是由你近期的感想组成
+                        </p>
+                        <p style="vertical-align:inherit;">
+                            他们分为，今天的感想，这一个月看过的电影和书籍，以及那年今日，你留下的感想
+                        </p>
+                        <p style="vertical-align:inherit;">
+                            <br/>
+                        </p>
+                    </section>
+                </section>
+            </section>
+            <section style="display: flex;justify-content: flex-end;margin-top: -20px;transform: translate(5px,0px);">
+                <section class="assistant" style="box-sizing:border-box;width: 24px;height: 5px;background-color: #f4d4db;"></section>
+            </section>
+        </section>
+    </section>
+</section>
+<section class="_135editor" data-role="paragraph">
+    <p style="vertical-align:inherit;">
+        <br/>
+    </p>
+</section>
+<section class="_135editor" data-tools="135编辑器" data-id="105087">
+    <section style="text-align: center;margin: 10px auto;">
+        <section style="background-color: #f2f6ff;padding: 0 15px 15px 15px;border-radius: 7px;box-shadow:4px 4px 8px rgba(169, 187, 223, 0.45);margin: 40px 8px 0 0;">
+            <section style="display: flex;justify-content: space-between;align-items: flex-start;" hm_fix="241:683">
+                <section style="box-sizing:border-box;width: 40%;" data-width="40%">
+                    <section style="display: flex;justify-content: center;margin: 20px 0 15px 0;">
+                        <section style="box-sizing:border-box;width: 38px;height: 38px;border-radius: 50%;box-shadow: inset 4px 4px 4px rgba(169, 187, 223, 0.45), inset -2.5px -2.5px 5px #fff;background-color: #f2f6ff;">
+                            <section style="font-size: 16px;letter-spacing: 1.5px;color: #6f85ac;line-height: 38px;margin-top:1px;">
+                                <strong>记</strong>
+                            </section>
+                        </section>
+                    </section>
+                    <section data-autoskip="1" class="135brush" style="margin-left: 5px;text-align: justify;line-height:1.75em;letter-spacing: 1.5px;font-size:12px;color:#6f85ac;background: transparent;">
+                        <p style="vertical-align:inherit;">
+                            除此以外，你可以点击最上方的“记录今天”来记录今天的小心情
+                        </p>
+                    </section>
+                </section>
+                <section style="box-sizing:border-box;width: 55%;transform: translate(0,-30px);" data-width="55%">
+                    <section style="box-sizing:border-box;width: 100%;" data-width="100%">
+                        <img style="box-sizing:border-box;vertical-align: inherit; width: 223px; display: block; border-top-left-radius: 7px; border-top-right-radius: 7px; border-bottom-right-radius: 7px; border-bottom-left-radius: 7px; height: 483px;" src="Memo.assets/IMG_0172.PNG" data-ratio="2.1659192825112106" data-w="341" data-width="100%" width="223" height="483"/>
+                    </section>
+                </section>
+            </section>
+            <section style="display: flex;justify-content: flex-start;margin-top: -20px;transform: translate(5px,0px);">
+                <section class="assistant" style="box-sizing:border-box;width: 24px;height: 5px;background-color: #f4d4db;"></section>
+            </section>
+        </section>
+    </section>
+</section>
+<section class="_135editor" data-role="paragraph">
+    <p style="vertical-align:inherit;">
+        <br/>
+    </p>
+</section>
+<section class="_135editor" data-role="paragraph">
+    <p style="vertical-align:inherit;">
+        <br />
+    </p>
+</section>
+
+
+
+
+
 在此页面，你将能看到多彩的卡片
 
 这些卡片，是由你近期的感想组成
@@ -31,6 +120,8 @@ Mac, iPad适配
 他们分为，今天的感想，这一个月看过的电影和书籍，以及那年今日，你留下的感想
 
 除此以外，你可以点击最上方的“记录今天”来记录今天的小心情
+
+
 
 <img src="Memo.assets/IMG_0178.PNG" alt="IMG_0178" style="zoom:25%;" />
 
