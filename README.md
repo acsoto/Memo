@@ -6,13 +6,13 @@ Memo用于随时记录，记录生活中的某一刻，记录今天的心情，�
 
 ## 图片
 
-<img src="Memo.assets/IMG_0177.PNG" alt="IMG_0177" style="zoom: 25%;" />
+<img src="Memo/IMG_0177.PNG" alt="IMG_0177" style="zoom: 25%;" />
 
-<img src="Memo.assets/IMG_0175.PNG" alt="IMG_0175" style="zoom:25%;" />
+<img src="Memo/IMG_0175.PNG" alt="IMG_0175" style="zoom:25%;" />
 
 （介绍及短评摘自豆瓣，侵删）
 
-![image-20211027232017002](Memo.assets/image-20211027232017002.png)
+![image-20211027232017002](Memo/image-20211027232017002.png)
 
 Mac, iPad适配
 
@@ -24,94 +24,7 @@ Mac, iPad适配
 
 ##### 主页
 
-<section class="_135editor" data-tools="135编辑器" data-id="105060">
-    <section style="text-align: center;margin: 10px auto;">
-        <section style="background-color: #f2f6ff;padding: 0 15px 15px 15px;border-radius: 7px;box-shadow:4px 4px 8px rgba(169, 187, 223, 0.45);margin: 40px 8px 0 0;">
-            <section style="display: flex;justify-content: space-between;align-items: flex-start;">
-                <section style="box-sizing:border-box;width: 55%;transform: translate(0,-30px);" data-width="55%">
-                    <section style="box-sizing:border-box;width: 100%;" data-width="100%">
-                        <img style="box-sizing:border-box;vertical-align:inherit;width: 100%; display: block;border-radius: 7px;" src="Memo.assets/IMG_0178.PNG" data-ratio="2.1659192825112106" data-w="341" hm_fix="227:454" data-width="100%"/>
-                    </section>
-                </section>
-                <section style="box-sizing:border-box;width: 40%;" data-width="40%">
-                    <section style="display: flex;justify-content: center;margin: 20px 0 15px 0;">
-                        <section style="box-sizing:border-box;width: 38px;height: 38px;border-radius: 50%;box-shadow: inset 4px 4px 4px rgba(169, 187, 223, 0.45), inset -2.5px -2.5px 5px #fff;background-color: #f2f6ff;">
-                            <section style="font-size: 16px;letter-spacing: 1.5px;color: #6f85ac;line-height: 38px;margin-top:1px;">
-                                <strong>观</strong>
-                            </section>
-                        </section>
-                    </section>
-                    <section data-autoskip="1" class="135brush" style="margin-left: 5px;text-align: justify;line-height:1.75em;letter-spacing: 1.5px;font-size:12px;color:#6f85ac;background: transparent;">
-                        <p style="vertical-align:inherit;">
-                            在此页面，你将能看到多彩的卡片
-                        </p>
-                        <p style="vertical-align:inherit;">
-                            这些卡片，是由你近期的感想组成
-                        </p>
-                        <p style="vertical-align:inherit;">
-                            他们分为，今天的感想，这一个月看过的电影和书籍，以及那年今日，你留下的感想
-                        </p>
-                        <p style="vertical-align:inherit;">
-                            <br/>
-                        </p>
-                    </section>
-                </section>
-            </section>
-            <section style="display: flex;justify-content: flex-end;margin-top: -20px;transform: translate(5px,0px);">
-                <section class="assistant" style="box-sizing:border-box;width: 24px;height: 5px;background-color: #f4d4db;"></section>
-            </section>
-        </section>
-    </section>
-</section>
-<section class="_135editor" data-role="paragraph">
-    <p style="vertical-align:inherit;">
-        <br/>
-    </p>
-</section>
-<section class="_135editor" data-tools="135编辑器" data-id="105087">
-    <section style="text-align: center;margin: 10px auto;">
-        <section style="background-color: #f2f6ff;padding: 0 15px 15px 15px;border-radius: 7px;box-shadow:4px 4px 8px rgba(169, 187, 223, 0.45);margin: 40px 8px 0 0;">
-            <section style="display: flex;justify-content: space-between;align-items: flex-start;" hm_fix="241:683">
-                <section style="box-sizing:border-box;width: 40%;" data-width="40%">
-                    <section style="display: flex;justify-content: center;margin: 20px 0 15px 0;">
-                        <section style="box-sizing:border-box;width: 38px;height: 38px;border-radius: 50%;box-shadow: inset 4px 4px 4px rgba(169, 187, 223, 0.45), inset -2.5px -2.5px 5px #fff;background-color: #f2f6ff;">
-                            <section style="font-size: 16px;letter-spacing: 1.5px;color: #6f85ac;line-height: 38px;margin-top:1px;">
-                                <strong>记</strong>
-                            </section>
-                        </section>
-                    </section>
-                    <section data-autoskip="1" class="135brush" style="margin-left: 5px;text-align: justify;line-height:1.75em;letter-spacing: 1.5px;font-size:12px;color:#6f85ac;background: transparent;">
-                        <p style="vertical-align:inherit;">
-                            除此以外，你可以点击最上方的“记录今天”来记录今天的小心情
-                        </p>
-                    </section>
-                </section>
-                <section style="box-sizing:border-box;width: 55%;transform: translate(0,-30px);" data-width="55%">
-                    <section style="box-sizing:border-box;width: 100%;" data-width="100%">
-                        <img style="box-sizing:border-box;vertical-align: inherit; width: 223px; display: block; border-top-left-radius: 7px; border-top-right-radius: 7px; border-bottom-right-radius: 7px; border-bottom-left-radius: 7px; height: 483px;" src="Memo.assets/IMG_0172.PNG" data-ratio="2.1659192825112106" data-w="341" data-width="100%" width="223" height="483"/>
-                    </section>
-                </section>
-            </section>
-            <section style="display: flex;justify-content: flex-start;margin-top: -20px;transform: translate(5px,0px);">
-                <section class="assistant" style="box-sizing:border-box;width: 24px;height: 5px;background-color: #f4d4db;"></section>
-            </section>
-        </section>
-    </section>
-</section>
-<section class="_135editor" data-role="paragraph">
-    <p style="vertical-align:inherit;">
-        <br/>
-    </p>
-</section>
-<section class="_135editor" data-role="paragraph">
-    <p style="vertical-align:inherit;">
-        <br />
-    </p>
-</section>
-
-
-
-
+![截屏2021-11-20 17.02.06](README/截屏2021-11-20 17.02.06.png)
 
 在此页面，你将能看到多彩的卡片
 
@@ -123,9 +36,9 @@ Mac, iPad适配
 
 
 
-<img src="Memo.assets/IMG_0178.PNG" alt="IMG_0178" style="zoom:25%;" />
+<img src="Memo/IMG_0178.PNG" alt="IMG_0178" style="zoom:25%;" />
 
-<img src="Memo.assets/IMG_0172.PNG" alt="IMG_0172" style="zoom:25%;" />
+<img src="Memo/IMG_0172.PNG" alt="IMG_0172" style="zoom:25%;" />
 
 ##### 电影
 
@@ -135,13 +48,13 @@ Mac, iPad适配
 
 当然，点击此方框，你可以进入到第二次标记的页面，记录下你的第二次观影以及新的感想
 
-<img src="Memo.assets/IMG_0176-5347266.PNG" alt="IMG_0176" style="zoom:25%;" />
+<img src="Memo/IMG_0176-5347266.PNG" alt="IMG_0176" style="zoom:25%;" />
 
-<img src="Memo.assets/IMG_0175-5346928.PNG" alt="IMG_0175" style="zoom:25%;" />
+<img src="Memo/IMG_0175-5346928.PNG" alt="IMG_0175" style="zoom:25%;" />
 
-<img src="Memo.assets/IMG_184.JPEG" alt="IMG_184" style="zoom:25%;" />
+<img src="Memo/IMG_184.JPEG" alt="IMG_184" style="zoom:25%;" />
 
-<img src="Memo.assets/IMG_0185.PNG" alt="IMG_0185" style="zoom:25%;" />
+<img src="Memo/IMG_0185.PNG" alt="IMG_0185" style="zoom:25%;" />
 
 ##### 书籍
 
@@ -149,7 +62,7 @@ Mac, iPad适配
 
 同时，app提供了书籍的简介信息
 
-<img src="Memo.assets/IMG_0186.PNG" alt="IMG_0186" style="zoom:25%;" />
+<img src="Memo/IMG_0186.PNG" alt="IMG_0186" style="zoom:25%;" />
 
 ## 功能
 
@@ -167,7 +80,7 @@ Mac, iPad适配
 
 主要分为三个部分：Controller Model Views
 
-![image-20211027232454144](Memo.assets/image-20211027232454144.png)
+![image-20211027232454144](Memo/image-20211027232454144.png)
 
 #### Controller
 
@@ -300,7 +213,7 @@ MarkList: Mark列表，即展示电影和书籍列表
 
 使用NavigationLink，向子界面：MarkDetail传递mark的引用
 
-![image-20211027234131178](Memo.assets/image-20211027234131178.png)
+![image-20211027234131178](Memo/image-20211027234131178.png)
 
 HomeView: 主界面
 
@@ -319,7 +232,7 @@ MarkDetail: 一个Mark的详情
 
 其中要进行object的解析，如果用户输入能索引本地数据集的一个条目上，将会展示此object的详情
 
-![image-20211027234003022](Memo.assets/image-20211027234003022.png)
+![image-20211027234003022](Memo/image-20211027234003022.png)
 
 MarkAdd: Mark增加界面
 
@@ -331,13 +244,13 @@ MarkToday: 标记今天界面
 
 以至于用户输入能够及时的反应在变量上并且写入modelData
 
-![image-20211027234224510](Memo.assets/image-20211027234224510.png)
+![image-20211027234224510](Memo/image-20211027234224510.png)
 
 #### Kit
 
 其他组件
 
-![image-20211027234350311](Memo.assets/image-20211027234350311.png)
+![image-20211027234350311](Memo/image-20211027234350311.png)
 
 电影和书籍详情，时间线，圆形和方形图片，卡片组件等
 
