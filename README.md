@@ -6,7 +6,7 @@ Memo用于随时记录，记录生活中的某一刻，记录今天的心情，�
 
 ## 图片
 
-![](README/截屏2021-11-28 17.15.44.png)
+![image-20211120173053786](README/image-20211120173053786.png)
 
 （介绍及短评摘自豆瓣，侵删）
 
@@ -36,7 +36,7 @@ Mac, iPad适配
 
 ![](README/008i3skNly1gwlr3yyccmj30u00yfdi5.jpg)
 
-![截屏2021-11-28 17.15.44](README/截屏2021-11-28 17.15.44-8091112.png)
+![](README/008i3skNly1gwuznrfz7oj30u00xmju5.jpg)
 
 ##### 书籍
 
