@@ -6,11 +6,11 @@ Memo用于随时记录，记录生活中的某一刻，记录今天的心情，�
 
 ## 图片
 
-![](https://tva1.sinaimg.cn/large/008i3skNly1gwlqsutq24j30u00xk41v.jpg)
+![截屏2021-11-28 17.15.44](README/截屏2021-11-28 17.15.44.png)
 
 （介绍及短评摘自豆瓣，侵删）
 
-![](https://tva1.sinaimg.cn/large/008i3skNly1gwlr5i3osjj30u010ujtt.jpg)
+![](README/008i3skNly1gwlr5i3osjj30u010ujtt.jpg)
 
 Mac, iPad适配
 
@@ -22,9 +22,9 @@ Mac, iPad适配
 
 ##### 主页
 
-![](https://tva1.sinaimg.cn/large/008i3skNly1gwlqj9g2ltj30pi0tkq5a.jpg)
+![](README/008i3skNly1gwlqj9g2ltj30pi0tkq5a.jpg)
 
-![](https://tva1.sinaimg.cn/large/008i3skNly1gwlqj9pbc4j30pk0vowg3.jpg)
+![](README/008i3skNly1gwlqj9pbc4j30pk0vowg3.jpg)
 
 ##### 电影
 
@@ -34,15 +34,15 @@ Mac, iPad适配
 
 当然，点击此方框，你可以进入到第二次标记的页面，记录下你的第二次观影以及新的感想
 
-![](https://tva1.sinaimg.cn/large/008i3skNly1gwlr3yyccmj30u00yfdi5.jpg)
+![](README/008i3skNly1gwlr3yyccmj30u00yfdi5.jpg)
 
-![](https://tva1.sinaimg.cn/large/008i3skNly1gwlr374o8bj30u00yq41f.jpg)
+![截屏2021-11-28 17.15.44](README/截屏2021-11-28 17.15.44-8091112.png)
 
 ##### 书籍
 
 类似电影，这里是你的书单，你可以添加你看过的书籍，并且记录第n次阅读的体验，相信每一次阅读，都会发现不少新东西
 
-![](https://tva1.sinaimg.cn/large/008i3skNly1gwlr1ixi5pj30u010gmys.jpg)
+![](README/008i3skNly1gwlr1ixi5pj30u010gmys.jpg)
 
 ## 功能
 
@@ -60,7 +60,7 @@ Mac, iPad适配
 
 主要分为三个部分：Controller Model Views
 
-![image-20211027232454144](Memo/image-20211027232454144.png)
+![image-20211027232454144](README/008i3skNly1gwuz8sdizwj306r0kx3z9.jpg)
 
 #### Controller
 
@@ -193,7 +193,7 @@ MarkList: Mark列表，即展示电影和书籍列表
 
 使用NavigationLink，向子界面：MarkDetail传递mark的引用
 
-![image-20211027234131178](Memo/image-20211027234131178.png)
+![image-20211027234131178](README/image-20211027234131178.png)
 
 HomeView: 主界面
 
@@ -212,7 +212,7 @@ MarkDetail: 一个Mark的详情
 
 其中要进行object的解析，如果用户输入能索引本地数据集的一个条目上，将会展示此object的详情
 
-![image-20211027234003022](Memo/image-20211027234003022.png)
+![image-20211027234003022](README/image-20211027234003022.png)
 
 MarkAdd: Mark增加界面
 
@@ -224,13 +224,13 @@ MarkToday: 标记今天界面
 
 以至于用户输入能够及时的反应在变量上并且写入modelData
 
-![image-20211027234224510](Memo/image-20211027234224510.png)
+![image-20211027234224510](README/image-20211027234224510.png)
 
 #### Kit
 
 其他组件
 
-![image-20211027234350311](Memo/image-20211027234350311.png)
+![image-20211027234350311](README/image-20211027234350311.png)
 
 电影和书籍详情，时间线，圆形和方形图片，卡片组件等
 
